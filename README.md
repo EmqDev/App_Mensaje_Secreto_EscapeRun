@@ -2,7 +2,7 @@
 ![App](./asset/app.png)
 
 ## Descripción
-"VaultChest es un programa diseñado para guardar de manera segura las contraseñas de laboratorio.\nLos usuarios pueden intentar ingresar la contraseña hasta tres veces.\nSi se equivocan más de tres veces, por motivos de seguridad, la computadora se reiniciará y deberán probar nuevamente."
+VaultChest es un programa diseñado para guardar de manera segura las contraseñas de laboratorio. Los usuarios pueden intentar ingresar la contraseña hasta tres veces. Si se equivocan más de tres veces, por motivos de seguridad, la computadora se reiniciará y deberán probar nuevamente.
 (Se creo esta app para un desafio de escape room para el colegio Rio de La Plata)
 
 ### Requisitos
