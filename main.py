@@ -75,7 +75,7 @@ def main(page: Page):
             dlg.open = True
             dlg.title = Text("Contraseña correcta")
 
-            dlg.content = Text("El mensaje secreto es: ")
+            dlg.content = Text('El mensaje secreto es: "busquen en la carpeta documentos, allí encontrarán una carpeta que dice investigación. Buscar la carpeta que esta nombrada con la cantidad de aniversarios que cumple el colegio este año". (Caché en frances)')
             dlg.icon = Icon(icons.LOCK_OPEN_OUTLINED, color=colors.GREEN, size=40)
         password.value = ""
         page.update()
